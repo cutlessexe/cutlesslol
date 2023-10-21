@@ -1,2 +1,2 @@
 script_key = getgenv().cutless.BladeBall.StartUp.Key;
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5039a62800a0539e22329b48e67651d4.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/bcba55eede507980168f16daa919db94.lua"))()
